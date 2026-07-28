@@ -41,9 +41,11 @@ Test the C Program for the desired output.
 
 
 
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/d7e8a0d2-9e13-4412-a02e-10ee7a19d018" />
 
 
 
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/981b731e-e3dc-4428-954f-b50cd73af555" />
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
